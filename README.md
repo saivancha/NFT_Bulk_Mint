@@ -45,3 +45,7 @@ This project can be used to deploy smart contract in two ways:
    Enter `art.address` to get contract address.
 
 8. Update `totalNfts` variable in `scripts/bulk_mint_nfts.js` to the amount of Nft's you want to mint and run it `node scripts/bulk_mint_nfts.js` to batch mint Nft's.
+
+
+
+
