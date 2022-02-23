@@ -4,7 +4,7 @@ This is accompanying code resource for youtube tutorial link given below.
 This project creates a ERC1155 smart contract and then deploys it to Rinkeby testnet/ Mumbai testnet/ Polygon mainnet.
 NFT's can then be minted in bulk by sending transaction to the deployed smart contract.
 
-Find the NFT's on Opensea Polygon mainnet: (they are up for sale 😇 🥰 )
+Find the NFT's on Opensea Polygon mainnet: 
 
 https://opensea.io/collection/cryptosuit-1
   
